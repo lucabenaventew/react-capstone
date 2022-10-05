@@ -38,7 +38,8 @@ $ cd react-capstone
 Give a ⭐️ if you like this project!
 
 
-## 📝 License and Aknoledgment
+## 📝 License and Aknowledgment
 
 This Project is based on Nelson Sakwa design project which you can watch on this [link](https://www.behance.net/sakwadesignstudio)
 This project is Creative Commons licensed.
+This project is [MIT](./MIT.md) licensed.
